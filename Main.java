@@ -6,6 +6,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Hello, Hunter");
         System.out.print("Hello Gavin");
+        System.out.print("Nothing beats a jet2 holiday and right now you can save £50 per person.");
+        System.out.print("that's £200 off for a family of 4. we've got millions of free child place holidays ...");
         System.out.print("12345");
         System.out.print("54321");
 
