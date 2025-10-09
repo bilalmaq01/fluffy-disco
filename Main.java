@@ -9,6 +9,18 @@ public class Main {
         System.out.print("12345");
         System.out.print("54321");
 
+        // Declare values
+        Scanner scanner = new Scanner(System.in);
+        String input;
+
+        // Opening conversation
+        System.out.println("Welcome to the Fluffy Disco.");
+        System.out.println("Are you here for the fluff or the disco?");
+
+        // All options & Input
+        System.out.printf("\n Fluff \t \t \t \t Disco \n Fluffy Disco \t \t Neither \n \n > ");
+        input = scanner.next();
+
         // If-else statement 
         // (Three options - if it doesn't match any of the three options, chooses a default response)
         if (input.equalsIgnoreCase("fluffy")) {
