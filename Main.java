@@ -5,6 +5,11 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Hello, Hunter");
-
+        System.out.print("SwizzCheese is cool");
+        for(int i = 0; i<5;i++)
+            {
+                System.out.print(i);
+            }
+            
     }
 }
