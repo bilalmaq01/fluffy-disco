@@ -7,6 +7,7 @@ public class Main {
         System.out.print("Hello, Hunter");
         System.out.print("Hello Gavin");
         System.out.print("12345");
+        System.out.print("54321");
 
         // If-else statement 
         // (Three options - if it doesn't match any of the three options, chooses a default response)
